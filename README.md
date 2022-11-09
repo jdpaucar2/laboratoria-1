@@ -62,3 +62,4 @@ En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a l
 
 
 
+
