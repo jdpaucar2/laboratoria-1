@@ -22,7 +22,7 @@
 * Aplicar las leyes de Kirchhoff para resolver un circuito.
 * Distinguir una fuente de corriente de una fuente de voltaje.
 
-**1.1  OBJETIVOS ESPECIFICOS***
+**1.1  OBJETIVOS ESPECIFICOS**
 
 * 1.1.Inferir las Leyes de Kirchhoff basándose en los resultados experimentales propios del circuito realizado. 
 * 1.2. Verificar el cumplimiento de las leyes de Kirchhoff de los nodos y las mallas, que permiten conocer corrientes y voltajes.
@@ -30,10 +30,10 @@
 * 1.4. Comparar los resultados teóricos hallados mediante las leyes mencionadas y los experimentales usando equipos de medición y determinar las causas porcentuales de error presentes entre ellos. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**2. MARCO TEORICO
+**2. MARCO TEORICO**
 
 * 2.1 Ley de corrientes de Kirchhoff
-Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común que se use lasigla LCK para referirse a esta ley. La ley de corrientes de Kirchhoff nos dice que:
+Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común que se use la sigla LCK para referirse a esta ley. La ley de corrientes de Kirchhoff nos dice que:
 
 
 
