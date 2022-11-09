@@ -1,4 +1,5 @@
 # PRACTICA DE LABORATORIO Nº1
 
-https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_ESPE.png
+![image](https://user-images.githubusercontent.com/116772918/200762591-a164d8db-c02e-4269-8bb4-0bc4c810d79f.png)
+
 
