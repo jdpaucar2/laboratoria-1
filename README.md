@@ -75,7 +75,11 @@ De acuerdo a la ley de voltaje de Kirchhoff (LTK), se pueden considerar positiva
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**6. CONCLUSIONES**
 
-
+En conclución los procesos realizados de manera práctica con el uso de el sistema Tinkerkad para el desarrollo de circuitos electrónicos permitieron el análisis de las
+cargas que atraviezan por el circuito construido de manera exacta, yasea en su medida por trayectorias o por nodos tal y como lo designa la Ley de Kirchhoff de
+Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de manera exacta.
 
 
