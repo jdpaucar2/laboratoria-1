@@ -48,6 +48,21 @@ Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común
 
 En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma delas corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por elnodo es igual a cero
 
+* 2.3 Ley de voltaje de Kirchhoff
+
+La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de conservación de la energía, lo cual implica que la suma algebraica de la energía producida dentro de un sistema siempre permanece constante
+Esto se puede expresar matemáticamente como:
+
+Donde: 
+
+* M = Número de tensiones presentes en la malla.
+* Vm = m-ésima tensión en la malla.
+
+De acuerdo a la ley de voltaje de Kirchhoff (LTK), se pueden considerar positivas o negativas las tensiones presentes en una malla, esto depende de la polaridad que se le asigne a cada tensión y del sentido de la corriente en cada malla, ya sea en sentido de las manecillas del reloj o en sentido contrario.
+
+![image](https://user-images.githubusercontent.com/116772918/200893049-c0a514be-8e0b-40f2-a3e2-c37237ae5bf4.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
