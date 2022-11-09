@@ -40,13 +40,15 @@ valores de la corriente y el potencial en cada punto de un circuito eléctrico. 
 aplicación de la ley de conservación de la energía.
 
 * 2.2 Ley de corrientes de Kirchhoff
+* 
 Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común que se use la sigla LCK para referirse a esta ley. La ley de corrientes de Kirchhoff nos dice que:
 
 ![image](https://user-images.githubusercontent.com/116772918/200773443-146597b7-8a43-48ec-9770-d43c528029b2.png)
 
+*
 En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma delas corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por elnodo es igual a cero
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
