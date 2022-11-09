@@ -29,6 +29,12 @@
 * 1.3. Calcular a partir de las Leyes de Kirchhoff los valores teóricos de las intensidades de corriente y los voltajes en un circuito determinado.
 * 1.4. Comparar los resultados teóricos hallados mediante las leyes mencionadas y los experimentales usando equipos de medición y determinar las causas porcentuales de error presentes entre ellos. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**2. MARCO TEORICO
+
+* 2.1 Ley de corrientes de Kirchhoff
+Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común que se use lasigla LCK para referirse a esta ley. La ley de corrientes de Kirchhoff nos dice que:
+
 
 
 
