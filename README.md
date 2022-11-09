@@ -51,6 +51,7 @@ En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a l
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+![image](https://user-images.githubusercontent.com/93800511/141481824-87634f6c-dcb1-4cf7-aefd-0b747d6e9fa6.png)
 
 
 
