@@ -48,19 +48,7 @@ En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a l
 
 La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de conservación de la energía, lo cual implica que La suma algebraica de las caídas de voltaje dentro de una trayectoria cerrada, o dentro de un lazo, es igual a cero.
 
-Esto se puede expresar matemáticamente como:
-
-Donde: 
-
-* M = Número de tensiones presentes en la malla.
-* Vm = m-ésima tensión en la malla.
-
-De acuerdo a la ley de voltaje de Kirchhoff (LTK), se pueden considerar positivas o negativas las tensiones presentes en una malla, esto depende de la polaridad que se le asigne a cada tensión y del sentido de la corriente en cada malla, ya sea en sentido de las manecillas del reloj o en sentido contrario.
-
-![image](https://user-images.githubusercontent.com/116772918/200893049-c0a514be-8e0b-40f2-a3e2-c37237ae5bf4.png)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![image](https://user-images.githubusercontent.com/93800511/141481824-87634f6c-dcb1-4cf7-aefd-0b747d6e9fa6.png)
@@ -93,5 +81,6 @@ Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
-Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall
+* Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall
+* Juárez, A. R. R. Leyes de Kirchhoff.
 
