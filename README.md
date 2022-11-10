@@ -102,7 +102,16 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 
 * 4.1 CALCULOS EXPLICADOS 
-V R1 = 1.03 mA \times 1
+
+![image](https://user-images.githubusercontent.com/116772918/201224340-b9333793-2b59-4a83-8903-2ab3ac87ec95.png)
+
+
+V R1 = 1.03 mA x 1ohm
+V R1 = 1.03 V
+
+I R1 = 2.05 V / 1 ohm
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
