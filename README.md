@@ -72,22 +72,34 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 ![image](https://user-images.githubusercontent.com/116772918/201216346-c1b8ec56-0ac9-422a-86fd-7c00cff980f8.png)
 
-// R1
-![image](https://user-images.githubusercontent.com/116772918/201216414-b2fcf8da-25be-49a8-a458-a6ac9fd50657.png)
+// MEDIDAS DE RESISTENCIAS 
 
-// R2
-![image](https://user-images.githubusercontent.com/116772918/201216475-7aa334b5-cece-4b0f-a0fb-56188092062f.png)
+![image](https://user-images.githubusercontent.com/116772918/201217657-672682f3-907e-4c6d-80b2-909a9fd2db84.png)
 
-//R3-R4
-![image](https://user-images.githubusercontent.com/116772918/201216589-b3fa8967-4770-4676-a317-e6f0f111e7a8.png)
+// MEDIDAS DE VOLTAJE 
 
-//R5
-![image](https://user-images.githubusercontent.com/116772918/201216808-619bbfb1-4ce3-41cd-a98d-3e475b431e37.png)
+![image](https://user-images.githubusercontent.com/116772918/201218230-41626c40-0b02-4547-b427-ca6ce35fbd77.png)
+
+![image](https://user-images.githubusercontent.com/116772918/201218265-f69df9f7-c5b5-4448-8d8f-7e11261b64ac.png)
+
+![image](https://user-images.githubusercontent.com/116772918/201218358-682b689e-c569-40f6-ae95-415f9dfe719d.png)
+
+
+// MEDIDAS DEL AMPERAJE 
+
+![image](https://user-images.githubusercontent.com/116772918/201218609-a4f055a7-d098-4082-8787-563f942c0220.png)
+
+![image](https://user-images.githubusercontent.com/116772918/201218653-c5c6d515-3b90-4c78-a24b-80f33baf98aa.png)
+
+![image](https://user-images.githubusercontent.com/116772918/201218892-8140c610-234a-43a9-ac3c-5187a551315b.png)
+
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
