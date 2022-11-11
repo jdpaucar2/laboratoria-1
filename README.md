@@ -146,6 +146,8 @@ TERCERA TABLA: Verificación por medio de la Ley de Kirchhoff de Corrientes.
 
 **5. VIDEO**
 
+https://youtu.be/AJcRXzZgemI
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **6. CONCLUSIONES**
