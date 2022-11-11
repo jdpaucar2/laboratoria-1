@@ -158,7 +158,7 @@ cargas que atraviezan por el circuito construido de manera exacta, yasea en su m
 Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de manera exacta.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
 * Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall
