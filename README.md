@@ -106,8 +106,8 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 ![image](https://user-images.githubusercontent.com/116772918/201261255-353188b4-cf51-4be1-905e-d4047487ec80.png)
 
 
-
 // CALCULOS EXPLICADOS 
+
 
 ![image](https://user-images.githubusercontent.com/116772918/201228154-996fab2c-97f4-41a0-a343-929305589bcd.png)
 
@@ -118,7 +118,9 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 ![image](https://user-images.githubusercontent.com/116772918/201231786-69a05e7e-e8e4-42f1-99cf-e31a8d6825d1.png)
 
+
 * SEGUNDA TABLA: Verificacion de las trayectorias por medio de la Ley de Kirchhoff de Voltajes.
+
 
 ![image](https://user-images.githubusercontent.com/116772918/201263093-a9a27430-612c-47cb-b6e4-6bd22d31cbba.png)
 
@@ -130,6 +132,13 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 ![image](https://user-images.githubusercontent.com/116772918/201263314-971a40a0-305d-4622-aace-5e25bc252cc4.png)
 
 ![image](https://user-images.githubusercontent.com/116772918/201263363-9139caba-5f54-459c-96a7-825133fc55ea.png)
+
+
+
+TERCERA TABLA: Verificación por medio de la Ley de Kirchhoff de Corrientes.
+
+
+![image](https://user-images.githubusercontent.com/116772918/201264612-bf33bf52-783b-4087-b994-bd0a0c914eed.png)
 
 
 
